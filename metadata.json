@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI Studio",
+  "description": "A multi-modal AI assistant that can generate images, create videos from text or images, build professional resumes, generate CSV data, and write code snippets. Your all-in-one creative and development partner.",
+  "requestFramePermissions": []
+}
